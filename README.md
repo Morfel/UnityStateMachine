@@ -1,4 +1,4 @@
 UnityStateMachine
 =================
 
-A state machine implementation for unity3D
+A finite state machine implementation for unity3D.
